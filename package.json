@@ -15,6 +15,7 @@
   ],
   "homepage": "https://github.com/arturvolokhin/create-admiral-template#readme",
   "dependencies": {
-    "cross-spawn": "^7.0.3"
+    "cross-spawn": "^7.0.3",
+    "readline-sync": "^1.4.10"
   }
 }
