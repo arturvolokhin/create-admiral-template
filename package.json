@@ -1,7 +1,7 @@
 {
   "name": "create-admiral-template",
-  "version": "1.1.2",
-  "latest": "1.1.2",
+  "version": "1.1.3",
+  "latest": "1.1.3",
   "description": "Example starter template tool",
   "bin": {
     "create-admiral-template": "./index.js"
