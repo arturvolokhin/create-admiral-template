@@ -3,7 +3,5 @@
 Example project to showcase how to build your own `create-my-template` npx starter template.
 
 ```bash
-$ npx create-my-template my-app
+$ create-admiral-template your-app-name
 ```
-
-[Read my article on how this works](https://petermekhaeil.com/how-to-build-an-npx-starter-template/).
